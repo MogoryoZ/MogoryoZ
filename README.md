@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MogoryoZ
-- 👀 I’m interested in cyber security and the world of technology
-- 🌱 I’m currently learning Programming and discovering vulnerabilities
-- 💞️ I’m looking to collaborate on National Cybersecurity Authority
+👋 Hi, I'm @MogoryoZ
+👀 I'm interested in cybersecurity and the world of technology
+🌱 I'm currently learning penetration testing and vulnerability discovery
 
 <!---
 MogoryoZ/MogoryoZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
